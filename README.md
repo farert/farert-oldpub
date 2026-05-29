@@ -2,6 +2,8 @@ farert
 ======
 
 # 経路運賃営業キロ計算アプリ Farert バージョン保管庫
+[![license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](package.json)
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/labstack/echo/echo.yml?style=flat-square)](https://github.com/labstack/echo/actions)
 
 ## DESCRIPTION
 
