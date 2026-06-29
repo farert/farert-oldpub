@@ -5,6 +5,9 @@ farert
 [![license](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](package.json)
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/labstack/echo/echo.yml?style=flat-square)](https://github.com/labstack/echo/actions)
 
+## なにか？
+- [こちらより](https://farert.blogspot.com/)
+
 ## DESCRIPTION
 
 - Windows version, ~~Android APK など~~ をこちらにおきます
@@ -15,7 +18,7 @@ farert
 
 ## SEE ALSO
 
-- Windows版以外（iOS版、macOS版、Android版、Web版）は[こちらより](https://farert.blogspot.com/)
+- Windows版以外（iOS版、macOS版、Android版、Web版）は[こちらより](https://github.com/farert)
 
 ## License
 
