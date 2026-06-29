@@ -18,7 +18,7 @@ farert
 
 ## SEE ALSO
 
-- Windows版以外（iOS版、macOS版、Android版、Web版）は[こちらより](https://github.com/farert)
+- Windows版以外（iOS版、macOS版、Android版、Web版）は[こちらより](https://farert.blogspot.com/p/download.html)
 
 ## License
 
